@@ -1,0 +1,51 @@
+body {
+    background-color: #333;
+}
+
+@font-face {
+    font-family: titleFont;
+    src: url(Fonts/BodoniModa-Italic-VariableFont_opsz\,wght.ttf)
+}
+
+#title {
+    text-align: center;
+    color: aliceblue;
+    font-family: titleFont;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+#question {
+    text-align: center;
+    color: aliceblue;
+    font-family: Papyrus, fantasy;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#score {
+    text-align: right;
+    color: aliceblue;
+    font-family: Papyrus, fantasy;
+    font-size: 50px;
+    margin-top: 30px;
+}
+
+#option1, #option2, #option3, #option4 {
+    text-align: center;
+    color: aliceblue;
+    font-family: Papyrus, fantasy;
+    font-size: 20px;
+    margin: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: darkgrey;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    opacity: 100%;
+    user-select: none;
+}

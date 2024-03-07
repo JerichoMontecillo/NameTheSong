@@ -1,0 +1,299 @@
+body {
+    background-color: #333;
+}
+
+@font-face {
+    font-family: titleFont;
+    src: url(Fonts/BodoniModa-Italic-VariableFont_opsz\,wght.ttf)
+}
+
+@font-face {
+    font-family: debutFont;
+    src: url(Fonts/Satisfaction.ttf)
+}
+
+@font-face {
+    font-family: fearlessFont;
+    src: url(Fonts/Arsenal-Bold.ttf)
+}
+
+@font-face {
+    font-family: speakNowFont;
+    src: url(Fonts/Jellyka\ Bees\ Antique\ Handwriting.ttf)
+}
+
+@font-face {
+    font-family: redFont;
+    src: url(Fonts/BebasNeue-Regular.ttf)
+}
+
+@font-face {
+    font-family: ninetyEightyNineFont;
+    src: url(Fonts/Taylor\ Swift\ Handwriting.ttf)
+}
+
+@font-face {
+    font-family: reputationFont;
+    src: url(Fonts/OPTIEngraversOldEnglish.otf)
+}
+
+@font-face {
+    font-family: loverFont;
+    src: url(Fonts/Satisfy-Regular.ttf)
+}
+
+@font-face {
+    font-family: folkloreEvermoreFont;
+    src: url(Fonts/IMFellDWPica-Italic.ttf)
+}
+
+@font-face {
+    font-family: midnightsFont;
+    src: url(Fonts/Inter-ExtraBold.ttf)
+}
+
+#titleText {
+    text-align: center;
+    color: aliceblue;
+    font-family: titleFont;
+}
+
+#debutTitle {
+    text-align: center;
+    color: aquamarine;
+    font-size: 40px;
+    font-family: debutFont;
+    margin-top: 10px;
+}
+
+#debut {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: aquamarine;
+    opacity: 90%;
+}
+
+#debutImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#fearlessTitle {
+    text-align: center;
+    color: goldenrod;
+    font-size: 40px;
+    font-family: fearlessFont;
+    margin-top: 10px;
+}
+
+#fearless {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: goldenrod;
+    opacity: 90%;
+}
+
+#fearlessImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#speakNowTitle {
+    text-align: center;
+    color: darkorchid;
+    margin-top: 10px;
+    font-size: 40px;
+    font-family: speakNowFont;
+}
+
+#speakNow {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: darkorchid;
+    opacity: 90%;
+}
+
+#speakNowImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#redTitle {
+    text-align: center;
+    color: darkred;
+    font-size: 40px;
+    font-family: redFont;
+    margin-top: 10px;
+}
+
+#red {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: darkred;
+    opacity: 90%;
+}
+
+#redImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#nineteenEightyNineTitle {
+    text-align: center;
+    color: lightblue;
+    font-size: 40px;
+    font-family: ninetyEightyNineFont;
+    margin-top: 10px;
+}
+
+#nineteenEightyNine {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: lightblue;
+    opacity: 90%;
+}
+
+#nineteenEightyNineImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#reputationTitle {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    font-family: reputationFont;
+    margin-top: 10px;
+}
+
+#reputation {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: black;
+    opacity: 90%;
+}
+
+#reputationImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#loverTitle {
+    text-align: center;
+    color: pink;
+    font-size: 40px;
+    font-family: loverFont;
+    margin-top: 10px;
+}
+
+#lover {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: pink;
+    opacity: 90%;
+}
+
+#loverImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#folkloreTitle {
+    text-align: center;
+    color: gainsboro;
+    font-size: 40px;
+    font-family: folkloreEvermoreFont;
+    margin-top: 10px;
+}
+
+#folklore {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: gainsboro;
+    opacity: 90%;
+}
+
+#folkloreImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#evermoreTitle {
+    text-align: center;
+    color: burlywood;
+    font-size: 40px;
+    font-family: folkloreEvermoreFont;
+    margin-top: 10px;
+}
+
+#evermore {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: burlywood;
+    opacity: 90%;
+}
+
+#evermoreImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
+
+#midnightsTitle {
+    text-align: center;
+    color: midnightblue;
+    font-size: 40px;
+    font-family: midnightsFont;
+    margin-top: 10px;
+}
+
+#midnights {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: midnightblue;
+    opacity: 90%;
+}
+
+#midnightsImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+}
