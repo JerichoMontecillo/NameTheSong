@@ -52,16 +52,18 @@ body {
     src: url(Fonts/Inter-ExtraBold.ttf)
 }
 
-#titleText {
+#titleText, #titleText2 {
     text-align: center;
     color: aliceblue;
     font-family: titleFont;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 
 #debutTitle {
     text-align: center;
     color: aquamarine;
-    font-size: 40px;
+    font-size: 29px;
     font-family: debutFont;
     margin-top: 10px;
 }
@@ -74,6 +76,7 @@ body {
     border-radius: 25px;
     background-color: aquamarine;
     opacity: 90%;
+    user-select: none;
 }
 
 #debutImage {
@@ -85,7 +88,7 @@ body {
 #fearlessTitle {
     text-align: center;
     color: goldenrod;
-    font-size: 40px;
+    font-size: 29px;
     font-family: fearlessFont;
     margin-top: 10px;
 }
@@ -98,6 +101,7 @@ body {
     border-radius: 25px;
     background-color: goldenrod;
     opacity: 90%;
+    user-select: none;
 }
 
 #fearlessImage {
@@ -122,6 +126,7 @@ body {
     border-radius: 25px;
     background-color: darkorchid;
     opacity: 90%;
+    user-select: none;
 }
 
 #speakNowImage {
@@ -146,6 +151,7 @@ body {
     border-radius: 25px;
     background-color: darkred;
     opacity: 90%;
+    user-select: none;
 }
 
 #redImage {
@@ -170,6 +176,7 @@ body {
     border-radius: 25px;
     background-color: lightblue;
     opacity: 90%;
+    user-select: none;
 }
 
 #nineteenEightyNineImage {
@@ -194,6 +201,7 @@ body {
     border-radius: 25px;
     background-color: black;
     opacity: 90%;
+    user-select: none;
 }
 
 #reputationImage {
@@ -218,6 +226,7 @@ body {
     border-radius: 25px;
     background-color: pink;
     opacity: 90%;
+    user-select: none;
 }
 
 #loverImage {
@@ -242,6 +251,7 @@ body {
     border-radius: 25px;
     background-color: gainsboro;
     opacity: 90%;
+    user-select: none;
 }
 
 #folkloreImage {
@@ -266,6 +276,8 @@ body {
     border-radius: 25px;
     background-color: burlywood;
     opacity: 90%;
+    margin-bottom: 20px;
+    user-select: none;
 }
 
 #evermoreImage {
@@ -290,6 +302,8 @@ body {
     border-radius: 25px;
     background-color: midnightblue;
     opacity: 90%;
+    margin-bottom: 20px;
+    user-select: none;
 }
 
 #midnightsImage {
