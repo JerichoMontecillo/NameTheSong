@@ -2,7 +2,7 @@
 
 Can you guess the song that contains the line?
 
-To run this project, just open the front_page.html page and begin playing from there by selecting an album.
+To run this project, extract the zip folder and then just open the front_page.html page and begin playing from there by selecting an album.
 Each quiz contains 5 questions containing songs only from the chosen album.
 After the quiz, you are met with the option to replay the album or to go back to the starting page to choose a new album.
 
